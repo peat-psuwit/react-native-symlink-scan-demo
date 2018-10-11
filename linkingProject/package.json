@@ -8,8 +8,8 @@
   },
   "dependencies": {
     "linked-package": "link:../linked-package/",
-    "react": "16.4.1",
-    "react-native": "0.56.1"
+    "react": "16.5.0",
+    "react-native": "0.57.2"
   },
   "devDependencies": {
     "babel-jest": "23.6.0",
