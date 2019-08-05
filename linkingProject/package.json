@@ -8,8 +8,8 @@
   },
   "dependencies": {
     "linked-package": "link:../linked-package/",
-    "react": "16.8.3",
-    "react-native": "0.59.10"
+    "react": "16.8.6",
+    "react-native": "0.60.4"
   },
   "devDependencies": {
     "@babel/core": "^7.4.5",
